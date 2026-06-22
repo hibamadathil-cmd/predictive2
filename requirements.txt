@@ -3,6 +3,6 @@ torch
 torchvision
 timm
 albumentations
-opencv-python
+opencv-python-headless
 pillow
 numpy
